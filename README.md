@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Blood_Donation**
 
-- 🌱 I’m currently learning **Flutter,Laravel,Iot**
+- 🌱 I’m currently learning **Flutter,Node js,Iot**
 
 - 💬 Ask me about **Android,Flutter**
 
