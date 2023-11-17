@@ -6,9 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=meddhiaalaya&label=Profile%20views&color=0e75b6&style=flat" alt="meddhiaalaya" /> </p>
 
-- 🔭 I’m currently working on **Blood_Donation**
+<!--- 🔭 I’m currently working on **Blood_Donation**
 
-- 🌱 I’m currently learning **Flutter,Node js,Iot**
+- 🌱 I’m currently learning **Flutter,Node js,Iot**-->
 
 - 💬 Ask me about **Android,Flutter**
 
