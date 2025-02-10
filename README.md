@@ -38,7 +38,6 @@ I'm a passionate Cloud Engineering and DevOps student at **ESPRIT**, with a stro
 ## ☕ Fun Fact
 I believe in the magical combination of **code + coffee** = infinite creativity! 🚀💡 Whether it's solving complex DevOps challenges or debugging code, coffee is my ultimate sidekick.
 
-![Divider](https://media.giphy.com/media/3o7TKUMG0IS9YvrN3q/giphy.gif)
 
 ## 📫 Let's Connect
 - **LinkedIn:** [https://www.linkedin.com/in/mohamed-dhia-alaya](https://www.linkedin.com/in/mohamed-dhia-alaya)  
